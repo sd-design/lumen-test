@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class DataController extends Controller
 {
@@ -14,9 +15,16 @@ class DataController extends Controller
     {
         //
     }
-    public function hello()
+    public function users()
     {
-        return "hello!";
+        $results = app('db')->select("SELECT * FROM users");
+        return $results;
+    }
+
+    public function usersDB()
+    {
+        $results = DB::select("SELECT * FROM users");
+        return $results;
     }
 
     public function store(Request $request)

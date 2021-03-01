@@ -18,5 +18,7 @@ $router->get('/', function () use ($router) {
 $router->get('/controller', 'MyController@hello');
 
 $router->get('/data', 'DataController@store');
+$router->get('/data/users', 'DataController@users');
+$router->get('/data/users/facades', 'DataController@usersDB');
 
 $router->get('/store', 'MyController@store');
