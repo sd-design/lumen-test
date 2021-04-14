@@ -12,7 +12,7 @@
 */
 
 $router->get('/', function () use ($router) {
-    return $router->app->version();
+    return $router->app->environment();
 });
 
 $router->get('/controller', 'MyController@hello');
@@ -22,3 +22,4 @@ $router->get('/data/users', 'DataController@users');
 $router->get('/data/users/facades', 'DataController@usersDB');
 
 $router->get('/store', 'MyController@store');
+$router->get('/405', 'My2Controller@hello');
