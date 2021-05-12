@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf63b43c-65e0-4b19-9d8b-3cb858a8c721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/app/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/app/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.styleci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/.styleci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Events/Event.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Events/Event.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Events/ExampleEvent.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Events/ExampleEvent.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Http/Controllers/DataController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Http/Controllers/DataController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Jobs/ExampleJob.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Jobs/ExampleJob.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Jobs/Job.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Jobs/Job.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Listeners/ExampleListener.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Listeners/ExampleListener.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/app/artisan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tests/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/TestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +137,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/WS/OSPanel/domains/fs-master.ru" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -174,11 +151,18 @@
       <option name="presentableId" value="Default" />
       <updated>1618397672778</updated>
       <workItem from="1618397676761" duration="125000" />
-      <workItem from="1618397827256" duration="1961000" />
+      <workItem from="1618397827256" duration="2524000" />
+      <workItem from="1618400434019" duration="119000" />
+      <workItem from="1618400566249" duration="60000" />
+      <workItem from="1618400648852" duration="164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
